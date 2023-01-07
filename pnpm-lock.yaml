@@ -2,7 +2,7 @@ lockfileVersion: 5.4
 
 specifiers:
   esbuild: ^0.16.14
-  eslint: ^8.29.0
+  eslint: ^8.31.0
   eslint-config-sweet: ^9.0.1
 
 devDependencies:

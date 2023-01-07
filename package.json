@@ -1,13 +1,13 @@
 {
   "name": "esbuild-plugin-linter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Lint your esbuild bundles with ESLint. 🧐",
   "main": "source/index.js",
   "types": "types/index.d.ts",
-  "repository": "https://github.com/robinloeffel/esbuild-plugin-linter.git",
-  "homepage": "https://github.com/robinloeffel/esbuild-plugin-linter",
-  "bugs": "https://github.com/robinloeffel/esbuild-plugin-linter/issues",
-  "author": "Robin Löffel (https://robinloeffel.ch) <hi@robinloeffel.ch>",
+  "repository": "https://github.com/to-codando/esbuild-plugin-linter.git",
+  "homepage": "https://github.com/to-codando/esbuild-plugin-linter",
+  "bugs": "https://github.com/to-codando/esbuild-plugin-linter/issues",
+  "author": "Rodrigo Rocha (https://github.com/to-codando)",
   "license": "MIT",
   "keywords": [
     "esbuild",
@@ -25,7 +25,7 @@
   ],
   "devDependencies": {
     "esbuild": "^0.16.14",
-    "eslint": "^8.29.0",
+    "eslint": "^8.31.0",
     "eslint-config-sweet": "^9.0.1"
   },
   "peerDependencies": {
